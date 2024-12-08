@@ -1,5 +1,5 @@
 # Overview
-This Jupyter Notebook is designed for processing and analyzing audio datasets. It uses libraries such as librosa, numpy, and matplotlib to perform audio feature extraction, visualization, and other related tasks. The notebook includes steps for downloading data, preparing it for analysis, and executing various audio processing functions.
+This Jupyter Notebook is designed for processing and analyzing audio datasets. It uses libraries such as librosa, numpy, and matplotlib to perform audio feature extraction, visualization, and other related tasks. The notebook includes steps for downloading data, preparing it for analysis, and executing various audio processing functions. This notebook has been created for the course Audio Processing and Indexing by members of the LIACS department of Leiden University.
 
 ## Prerequisites
 Before running the notebook, ensure the following dependencies are installed in your Python environment:
