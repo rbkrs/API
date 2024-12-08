@@ -58,3 +58,5 @@ Audio Playback: Interactive playback widgets for audio files.
 Additional Notes
 Ensure a stable internet connection to download datasets.
 GPU acceleration is enabled for compatible environments, such as Google Colab.
+
+Made by Q. Chen, G. Jayadas, A. van den Broek, R.P.M. Kras
